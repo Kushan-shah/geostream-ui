@@ -6,7 +6,9 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-> **Backend repo:** [geostream-orbital-engine](https://github.com/Kushan-shah/geostream-orbital-engine)
+> 🚀 **Live Demo:** [geo.kushan.codes](https://geo.kushan.codes)
+> 📡 **Live API:** [api.geo.kushan.codes/health/live](https://api.geo.kushan.codes/health/live)
+> 🔗 **Backend repo:** [geostream-orbital-engine](https://github.com/Kushan-shah/geostream-orbital-engine)
 
 ---
 
