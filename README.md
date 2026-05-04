@@ -8,6 +8,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 > 🚀 **Live Demo:** [geo.kushan.codes](https://geo.kushan.codes)
 > 📡 **Live API:** [api.geo.kushan.codes/health/live](https://api.geo.kushan.codes/health/live)
+> 📖 **Swagger Docs:** [api.geo.kushan.codes/swagger/index.html](https://api.geo.kushan.codes/swagger/index.html)
 > 🔗 **Backend repo:** [geostream-orbital-engine](https://github.com/Kushan-shah/geostream-orbital-engine)
 
 ---
