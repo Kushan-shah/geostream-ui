@@ -1,4 +1,4 @@
-// Copyright 2026 Kushan J
+// Copyright 2026 Kushan Shah
 // SPDX-License-Identifier: Apache-2.0
 
 // Satellite layer catalog — real OGC WMS endpoints from NASA GIBS, NOAA, GEBCO, EOX, and others.

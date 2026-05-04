@@ -1,4 +1,4 @@
-// Copyright 2026 Kushan J
+// Copyright 2026 Kushan Shah
 // SPDX-License-Identifier: Apache-2.0
 
 // ── NASA EONET (Earth Observatory Natural Event Tracker) v3 API Client ──

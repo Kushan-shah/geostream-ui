@@ -1,4 +1,4 @@
-// Copyright 2026 Kushan J
+// Copyright 2026 Kushan Shah
 // SPDX-License-Identifier: Apache-2.0
 
 export const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8080";

@@ -6,8 +6,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-
-> **Backend repo:** [geostream-backend](https://github.com/your-username/geostream-backend)
+> **Backend repo:** [geostream-orbital-engine](https://github.com/Kushan-shah/geostream-orbital-engine)
 
 ---
 
@@ -55,14 +54,14 @@ graph TD
 
 ### Prerequisites
 - Node.js 20+
-- A running [GeoStream Backend](https://github.com/your-username/geostream-backend) instance
+- A running [GeoStream Backend](https://github.com/Kushan-shah/geostream-orbital-engine) instance
 
 ### Setup
 
 ```bash
 # 1. Clone
-git clone https://github.com/your-username/geostream-frontend.git
-cd geostream-frontend
+git clone https://github.com/Kushan-shah/geostream-ui.git
+cd geostream-ui
 
 # 2. Install dependencies
 npm ci
@@ -120,5 +119,5 @@ Every coordinate mapped, every chart drawn, and every timestamp displayed is sou
 ---
 
 ## 📜 License
-Copyright 2026 Kushan J  
+Copyright 2026 Kushan Shah  
 Licensed under the **Apache License 2.0** — see [`LICENSE`](LICENSE).
