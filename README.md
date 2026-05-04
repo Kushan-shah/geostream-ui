@@ -6,9 +6,10 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-> 🚀 **Live Demo:** [geo.kushan.codes](https://geo.kushan.codes)
-> 📡 **Live API:** [api.geo.kushan.codes/health/live](https://api.geo.kushan.codes/health/live)
-> 📖 **Swagger Docs:** [api.geo.kushan.codes/swagger/index.html](https://api.geo.kushan.codes/swagger/index.html)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-geo.kushan.codes-000000?logo=vercel&logoColor=white)](https://geo.kushan.codes)
+[![Live API](https://img.shields.io/badge/Live_API-api.geo.kushan.codes-46E3B7?logo=render&logoColor=white)](https://api.geo.kushan.codes/health/live)
+[![Swagger](https://img.shields.io/badge/Swagger-Docs-85EA2D?logo=swagger&logoColor=black)](https://api.geo.kushan.codes/swagger/index.html)
+
 > 🔗 **Backend repo:** [geostream-orbital-engine](https://github.com/Kushan-shah/geostream-orbital-engine)
 
 ---
